@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Algorithm Design Manual notes
+layout: index
 root: true
 ---
 

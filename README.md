@@ -1,3 +1,3 @@
-# The Algorithm Design Manual
+# Algorithm Design Manual notes
 
-My notes for the book by Steven S. Skiena.
+My notes for the book titled 'The Algorithm Design Manual' by Steven S. Skiena.
