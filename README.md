@@ -1,3 +1,3 @@
-# Algorithm Design Manual notes
+# [Algorithm Design Manual notes](http://csaba.palfi.me/algorithm-design-manual/)
 
-My notes for the book titled 'The Algorithm Design Manual' by Steven S. Skiena.
+My work-in-progress notes for the book titled '[The Algorithm Design Manual](http://www.algorist.com/)' by Steven S. Skiena.
